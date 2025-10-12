@@ -26,6 +26,7 @@
     <ClCompile Include="chap_6_3_q2.cpp" />
     <ClCompile Include="chap_6_8_q2.cpp" />
     <ClCompile Include="chap_6_x_q1.cpp" />
+    <ClCompile Include="chap_7_3_q1.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +37,7 @@
     <ClInclude Include="chap_6_3_q2.h" />
     <ClInclude Include="chap_6_8_q2.h" />
     <ClInclude Include="chap_6_x_q1.h" />
+    <ClInclude Include="chap_7_3_q1.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
