@@ -44,28 +44,28 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="chap_4_x_q2.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="chap_4_x_q3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="chap_5_7_q1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="chap_5_x_q4.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="chap_6_3_q2.h">
       <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="chap_6_8_q2.h">
-      <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="chap_6_x_q1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="chap_7_3_q1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chap_4_x_q2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chap_5_x_q4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chap_6_8_q2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
