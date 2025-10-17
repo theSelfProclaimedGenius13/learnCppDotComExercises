@@ -24,6 +24,4 @@ void result_message_chap_4_x_q3() {
 		std::cout << "At "<<a<<" seconds, the ball is at height "<<tow_height-distance_fallen_chap_4_x_q3(a)<<"\n";
 		a++;
 	}
-
-
 }

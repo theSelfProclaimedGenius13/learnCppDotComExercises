@@ -36,6 +36,9 @@
     <ClCompile Include="chap_8_8_q2.cpp" />
     <ClCompile Include="chap_8_8_q3.cpp" />
     <ClCompile Include="chap_8_8_q4.cpp" />
+    <ClCompile Include="chap_8_x_q1.cpp" />
+    <ClCompile Include="chap_8_x_q2.cpp" />
+    <ClCompile Include="chap_8_x_q3.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -56,6 +59,9 @@
     <ClInclude Include="chap_8_8_q2.h" />
     <ClInclude Include="chap_8_8_q3.h" />
     <ClInclude Include="chap_8_8_q4.h" />
+    <ClInclude Include="chap_8_x_q1.h" />
+    <ClInclude Include="chap_8_x_q2.h" />
+    <ClInclude Include="chap_8_x_q3.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
