@@ -78,6 +78,9 @@
     <ClCompile Include="chap_8_x_q3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="chap_9_x_q1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chap_4_x_q3.h">
@@ -138,6 +141,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="chap_8_x_q3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chap_9_x_q1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
